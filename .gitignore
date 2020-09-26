@@ -1,0 +1,4 @@
+app/content/*
+app/message/*
+composer.lock
+vendor

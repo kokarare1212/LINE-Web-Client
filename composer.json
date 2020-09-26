@@ -1,0 +1,13 @@
+{
+    "name": "kokarare1212/line",
+    "authors": [
+        {
+            "name": "kokarare1212",
+            "email": "kokarare1212@gmail.com"
+        }
+    ],
+    "require": {
+        "linecorp/line-bot-sdk": "^4.5",
+        "ext-sockets": "*"
+    }
+}
